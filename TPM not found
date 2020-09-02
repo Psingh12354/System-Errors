@@ -7,3 +7,7 @@ Reconnect AC power to the system and boot to the BIOS setup using the F12 one ti
 To make sure TPM is turned on, you must press F2 to enter System Setup. Then go to the Security section and check that TPM is set to On under the TPM security settings.
 If TPM is restored, continue with normal system operation.
 If TPM is still missing from BIOS setup, please contact Technical Support for further assistance.
+
+
+
+NOTE : there are multiple version of BIOS on DELL help and support you need to check which will provides you a TPM support by random
