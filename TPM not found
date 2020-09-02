@@ -1,0 +1,9 @@
+If TPM is not present, please try the following troubleshooting steps:
+
+Update the system BIOS to the latest version available on the Dell Support Website/Drivers & downloads.
+Power off the system then disconnect the AC power cord and leave the system unplugged for about 30 s.
+Reconnect AC power to the system and boot to the BIOS setup using the F12 one time boot menu.
+
+To make sure TPM is turned on, you must press F2 to enter System Setup. Then go to the Security section and check that TPM is set to On under the TPM security settings.
+If TPM is restored, continue with normal system operation.
+If TPM is still missing from BIOS setup, please contact Technical Support for further assistance.
